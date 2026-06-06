@@ -4,8 +4,8 @@
   "description": "goalsetter app for youtube tutorial",
   "main": "server.js",
   "scripts": {
-        "start": "node backend/server.js",
-        "server": "nodemon backend/server.js"
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
   },
   "author": "bhargav",
   "license": "MIT",
@@ -13,6 +13,7 @@
     "colors": "^1.4.0",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
+    "express-async-handler": "^1.2.0",
     "mongoose": "^9.6.3"
   },
   "devDependencies": {
