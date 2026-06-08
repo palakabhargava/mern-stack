@@ -20,12 +20,18 @@ A simple MERN backend application developed for learning CRUD operations using N
 ## Project Structure
 
 backend
-├── config
-├── controllers
-├── middleware
-├── model
-├── routes
-└── server.js
+
+ ├── config
+
+ ├── controllers
+
+ ├── middleware
+
+ ├── model
+
+ ├── routes
+
+ └── server.js
 
 ## API Endpoints
 
